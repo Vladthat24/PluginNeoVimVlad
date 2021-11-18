@@ -1,0 +1,5 @@
+#ignorar la carpeta autoload
+autoload
+
+#ignorar la carpeta plugged
+plugged
